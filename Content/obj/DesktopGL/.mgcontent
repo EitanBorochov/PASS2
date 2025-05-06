@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Music/EndGame.mp3</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Music/Gameplay.mp3</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Music/Menu.mp3</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Music/Pause.mp3</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Sounds/BrickBlock.wav</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Sounds/PauseSnd.wav</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Sounds/PipeHit.wav</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Sounds/QuestionBlock.wav</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Sounds/Score.wav</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Audio/Sounds/StarCollect.wav</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Fonts/LargeText.spritefont</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Fonts/MedText.spritefont</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Fonts/SmallText.spritefont</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Images/Sprites/Brick.png</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Images/Sprites/CoinHDsm.png</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Images/Sprites/PipeV_L.png</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Images/Sprites/PipeV_R.png</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Images/Sprites/Question.png</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Images/Sprites/RedShell.png</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Images/Sprites/RotatingStar.png</File>
+    <File>/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/Content/Images/Sprites/Title.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
