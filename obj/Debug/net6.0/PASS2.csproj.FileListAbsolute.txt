@@ -49,3 +49,4 @@
 /Users/eitanborochov/Desktop/ICS/Assignments/PASS2/bin/Debug/net6.0/Content/Images/Sprites/RedShell.xnb
 /Users/eitanborochov/Desktop/ICS/Assignments/PASS2/bin/Debug/net6.0/Content/Images/Sprites/RotatingStar.xnb
 /Users/eitanborochov/Desktop/ICS/Assignments/PASS2/bin/Debug/net6.0/Content/Images/Sprites/Title.xnb
+/Users/eitanborochov/Desktop/ICS/Assignments/PASS2/obj/Debug/net6.0/PASS2.sourcelink.json

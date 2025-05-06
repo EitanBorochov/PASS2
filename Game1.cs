@@ -314,7 +314,7 @@ public class Game1 : Game
         
         // Playing menu music
         MediaPlayer.IsRepeating = true;
-        MediaPlayer.Volume = 0.8f;
+        MediaPlayer.Volume = 0.9f;
         MediaPlayer.Play(menuMusic);
     }
 
